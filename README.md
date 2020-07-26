@@ -1,9 +1,10 @@
 ### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
 ![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://www.techunido.com/wp-content/uploads/2018/06/php-development.png)
 
-Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre
+Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre.
+Aproveitando a quarentena para colocar os estudos em dia.
 
-Skills: PHP / Laravel / WordPress / WooCommerce / Python
+Skills: PHP / Laravel / WordPress / WooCommerce / Python / SQL / GNU/Linux
 
 - Atualmente trabalhando no Retina. Uma ferramenta capaz de armazenar e gerenciar dados/informações relacionados às Organizações Criminosas .
 
