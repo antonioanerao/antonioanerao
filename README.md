@@ -1,25 +1,14 @@
-# Antonio Anerão
-[![Twitter Badge](https://img.shields.io/badge/-@AntonioAnerao-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AntonioAnerao)](https://twitter.com/AntonioAnerao)
-[![Linkedin Badge](https://img.shields.io/badge/-anerao--junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anerao-junior/)](https://www.linkedin.com/in/anerao-junior/)
-[![Gmail Badge](https://img.shields.io/badge/-aneraojunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aneraojunior@gmail.com)](mailto:aneraojunior@gmail.com)
-## Web developer in love with Laravel, WordPress and Woocommerce
+### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
+![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://www.techunido.com/wp-content/uploads/2018/06/php-development.png)
 
-```                          
-                           \\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre
+
+Skills: PHP / Laravel / WordPress / WooCommerce / Python
+
+- Atualmente trabalhando no Retina. Uma ferramenta capaz de armazenar e gerenciar dados/informações relacionados às Organizações Criminosas .
+
+- Atualmente estudando Python 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/aneraojunior)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/anrao-junior/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/AntonioAnerao)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aneraojunior&show_icons=true)  
