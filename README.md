@@ -1,5 +1,5 @@
 ### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
-![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://camo.githubusercontent.com/b5979642a39579f0abfcf2d7ce97cdcee7b140f1/68747470733a2f2f7777772e74656368756e69646f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f7068702d646576656c6f706d656e742e706e67)
+![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://miro.medium.com/max/969/1*3ET_B23xHpqS0btBS5SoBQ.png)
 
 Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre.
 Aproveitando a quarentena para colocar os estudos em dia.
