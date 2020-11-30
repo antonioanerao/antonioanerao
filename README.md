@@ -1,5 +1,5 @@
 ### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
-![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://bn1301files.storage.live.com/y4mKcFdFTEHwuzE6sEE4V7DFPCds7W0lzArBlUrmrtQ-TN_ZXBJmgbeDHfxpCdLyKaRzqE5GQ5fkrRNW4w7qYXsHkKby1pOPPZ4PraP-5EZRiC8OmuUISDanT4KwVgk0WoEyOpxS9ISIFayGCVFggyhgV573S-HkuWjZ59AVLlBOSfk1q2MGPh85xTEgbhZ1ZY9yf9B5B4IG9TuM8A11-ut9A/code-once.jpg?psid=1&width=700&height=272)
+![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://miro.medium.com/max/969/1*3ET_B23xHpqS0btBS5SoBQ.png)
 
 Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre.
 Aproveitando a quarentena para colocar os estudos em dia.
