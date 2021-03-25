@@ -1,11 +1,9 @@
 ### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
 ![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://miro.medium.com/max/969/1*3ET_B23xHpqS0btBS5SoBQ.png)
 
-Programador desde 2012, atualmente focado em Laravel e WordPress. Coordenador de Sistemas no Ministério Público do Estado do Acre.
-Aproveitando a quarentena para colocar os estudos em dia.
+A programmer since 2012, in love with Laravel and WordPress. I am currently  the Software Development Coordinator at Ministério Público Do Estado Do Acre
 
 Skills: PHP / Laravel / WordPress / WooCommerce / Python / SQL / GNU/Linux
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/aneraojunior)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/anerao-junior/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/AntonioAnerao)  
 
