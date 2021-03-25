@@ -6,10 +6,8 @@ Aproveitando a quarentena para colocar os estudos em dia.
 
 Skills: PHP / Laravel / WordPress / WooCommerce / Python / SQL / GNU/Linux
 
-- Atualmente trabalhando no Retina. Uma ferramenta capaz de armazenar e gerenciar dados/informações relacionados às Organizações Criminosas .
-
-- Atualmente estudando Python 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/aneraojunior)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/anerao-junior/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/AntonioAnerao)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aneraojunior&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneraojunior)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aneraojunior&show_icons=true)  
