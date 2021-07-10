@@ -1,7 +1,4 @@
-### Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce
-![Desenvolvedor web apaixonado por Laravel, WordPress e WooCommerce](https://miro.medium.com/max/969/1*3ET_B23xHpqS0btBS5SoBQ.png)
-
-A programmer since 2012, in love with Laravel and WordPress. I am currently  the Software Development Coordinator at Ministério Público Do Estado Do Acre
+A programmer since 2012, in love with Laravel and WordPress. I am currently the Software Development Coordinator at Ministério Público Do Estado Do Acre, in Brazil.
 
 Skills: PHP / Laravel / WordPress / WooCommerce / Python / SQL / GNU/Linux
 
