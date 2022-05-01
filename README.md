@@ -1,9 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, My name is Antonio</h1>
-<h3 align="center">Software Developer Coordinator</h3>
+<h3 align="center">Hi, my name is Antonio</h1>
 
-A programmer since 2012, in love with Laravel and WordPress. I am currently the Software Development Coordinator at Ministério Público Do Estado Do Acre, in Brazil.
+I'm a Web Developer and student of Cybersecurity, currently as a Software Developer Coordinator at Ministério Público Do Estado do Acre where I manage a small but awesome team.
 
-Skills: PHP / Laravel / WordPress / WooCommerce / Python / SQL / GNU/Linux / Docker / Oracle Cloud Architect
+  ---
+
+Skills: PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Docker / Oracle Cloud Architect / Team Management
+
+
+  ---
 
 ### Certifications
 
