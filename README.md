@@ -4,7 +4,7 @@ I'm a Web Developer and student of Cybersecurity, currently as a Software Develo
 
   ---
 
-Skills: PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Docker / Oracle Cloud Architect / Team Management
+Skills: PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Linux Server /  Docker / Traefik / Oracle Cloud Architect / Team Management
 
 
   ---
