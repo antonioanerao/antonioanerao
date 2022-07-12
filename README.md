@@ -1,5 +1,3 @@
-<h3 align="center">Hi, my name is Antonio</h1>
-
 I'm a Web Developer and student of Cybersecurity, currently as a Software Developer Coordinator at Ministério Público Do Estado do Acre where I manage a small but awesome team.
 
   ---
