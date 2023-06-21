@@ -1,4 +1,4 @@
-I'm a Web Developer and student of Cybersecurity, currently as a Software Developer Coordinator at Ministério Público Do Estado do Acre where I manage a small but awesome team.
+I'm a Web Developer with a degree in Cybersecurity, currently working as a Software Development Coordinator at Ministério Público Do Estado do Acre, where I lead a small yet awesome team.
 
   ---
 
