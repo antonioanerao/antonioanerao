@@ -14,7 +14,3 @@ Skills: PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Linux Server
   ---
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/antonioanerao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/antonioanerao/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='25'>](https://hub.docker.com/u/antonioanerao)
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/_antonioanerao/count.svg" style="position: absolute; width: 1px; height: 1px; overflow: hidden; border: none;" />
-</p>
