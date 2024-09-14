@@ -2,7 +2,7 @@ I'm a Web Developer with a degree in Cybersecurity, currently working as a Softw
 
   ---
 
-Skills: PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Linux Server / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
+Skills: PHP / Laravel / WordPress / WooCommerce / Python / AI Tools Development / SQL / GNU/Linux / Linux Server / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
 
   ---
 
