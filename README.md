@@ -1,15 +1,10 @@
-I'm a Web Developer with a degree in Cybersecurity, currently working as a Software Development Coordinator at Ministério Público Do Estado do Acre, where I lead a small yet awesome team.
+I have about 10 years of experience developing web applications. Now I'm developing artificial intelligence tools at @mp-ac, like Anton.IA, a conversational AI tool powered by RAG, and TranscreveAI, which transcribes audio using OpenAI's Whisper model.
+
+Additionally, I work on fine-tuning language models to customize AI responses and adapt them to MPAC's specific context and needs. This involves training models with local data to deliver more accurate and relevant results.
 
   ---
 
 Skills: PHP / Laravel / WordPress / WooCommerce / Python / AI Tools Development / SQL / GNU/Linux / Linux Server / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
-
-  ---
-
-### Certifications
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7E30E4C17217CC9E21A504ED34C6BEE22961E2C4A8FEBB8B5BC2DD4DC47C4A4
-" target="_blank"><img src="./images/oracle-fundation-associate.png" width="150px"/></a> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9823346D7CEE0AC42DDFE6C356BF5E141CF56E080878F2049B0348BCB5D01A09" target="_blank"><img src="./images/oracle-architect-associate.png" width="150px"/></a> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9715201D0A0E67AE4116FE7B23533BAC16508C053EFA6DD585EEC4FF24EE25EC" target="_blank"><img src="./images/oracle-architect-professional.png" width="150px"/></a> <a href="https://www.credential.net/63ed63ab-3956-40d1-b01a-365b298d1caa" target="_blank"><img src="./images/docker-uncomplicated.png" width="150px"/></a> <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LTGPBWAIIV.png" target="_blank"><img src="./images/thm-jr-penetration-tester.png" width="150px"/></a> 
 
   ---
   
