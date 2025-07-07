@@ -7,5 +7,3 @@ Additionally, I work on fine-tuning language models to customize AI responses an
 Skills: PHP / Laravel / WordPress / WooCommerce / Python / AI Tools Development / SQL / GNU/Linux / Linux Server / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
 
   ---
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/antonioanerao) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/antonioanerao/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='25'>](https://hub.docker.com/u/antonioanerao)
