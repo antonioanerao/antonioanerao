@@ -1,9 +1,7 @@
-I have about 10 years of experience developing web applications. Now I'm developing artificial intelligence tools at @mp-ac, like Anton.IA, a conversational AI tool powered by RAG, and TranscreveAI, which transcribes audio using OpenAI's Whisper model.
-
-Additionally, I work on fine-tuning language models to customize AI responses and adapt them to MPAC's specific context and needs. This involves training models with local data to deliver more accurate and relevant results.
+I'm a software developer with around 12 years of experience building web applications. Currently, I work at [@mp-ac](https://github.com/mp-ac) as part of SeringalLab, our innovation lab, where I develop artificial intelligence tools, like Anton.IA, a conversational AI powered by RAG (Retrieval-Augmented Generation), and TranscreveAI, a transcription platform that uses Whisper model to convert audio into text.
 
   ---
 
-Skills: PHP / Laravel / WordPress / WooCommerce / Python / AI Tools Development / SQL / GNU/Linux / Linux Server / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
+Skills: PHP / Laravel / WordPress / WooCommerce / Python / AI Tools Development / LLM / Prompt Engineering / SQL / GNU/Linux / Linux Server Management / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
 
   ---
