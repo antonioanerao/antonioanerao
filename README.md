@@ -4,4 +4,4 @@ I'm developing AI Agents and artificial intelligence tools such as Anton.IA, a c
 
   ---
 
-**Skills:** Python / AI Agents / AI Tools Development / LLM / Prompt Engineering / PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Linux Server Management / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
+**Skills:** Python / FastAPI / LangChain / LangGraph / LangSmith / AI Agents / AI Tools Development / LLM / Prompt Engineering / PHP / Laravel / WordPress / WooCommerce / SQL / GNU/Linux / Linux Server Management / Microservices / Docker / Traefik / Oracle Cloud Architect Professional / Team Management / Code Review
